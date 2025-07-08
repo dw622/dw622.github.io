@@ -53,7 +53,7 @@ In **DIA LAB**
 
 - [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://github.com), **Daewon Kim**, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024 ([Poster]())
 - [Analysis of Capacitive Touch Sensors in Automotive Steering Wheel](https://github.com), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **KSAE Conference (Spring)**, 2024 (Oral)
-- [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://github.com), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
+- [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://github.com/dw622/dw622.github.io/tree/main/pdf), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
 
 </div>
 </div>  
