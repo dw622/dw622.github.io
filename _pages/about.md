@@ -59,8 +59,11 @@ My research interests include:
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.03 – present* 🎓 DGIST, Major in Mechanical Engineering
+  - Completed 7 semesters (Expected Graduation: Feb 2026)
+  - Total GPA: 4.02/4.3, Major GPA: 4.15/4.3
+  - Military Service: Mar 2021 – Dec 2022
+- *2023.06 - 2023.08* 🌐 University of California, Berkeley – Visiting Student (Summer Sessions)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
