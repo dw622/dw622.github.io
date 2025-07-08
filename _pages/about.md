@@ -34,61 +34,82 @@ My research interests include:
 - *2024.05* 🎉 Oral Presentation at the ISET 2024
 
 # 🚀 Projects and Publications
+2025
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024-2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hands-Off Detection (HOD)]()
+<h2><a href="https://example.com">Hands-Off Detection (HOD)</a></h2>
 
 In **DIA LAB**
 
-- 간단한 설명
+- Developed a capacitive sensing-based Hands-Off Detection (HOD) system for real vehicle environments.
+- Designed and validated detection algorithms considering factors like glove material, contact pressure, and electromagnetic shielding.
 </div>
 </div>
 
-- [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://github.com), Daewon Kim, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024
-- [Analysis of Capacitive Touch Sensors in Automotive Steering Wheel](https://github.com), Daewon Kim, Jaseong Lee, Tasang Park, Seonhun Lee*, **KSAE Conference (Spring)**, 2024
-- [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://github.com), Daewon Kim, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024
+- [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://github.com), **Daewon Kim**, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024 ([Poster]())
+- [Analysis of Capacitive Touch Sensors in Automotive Steering Wheel](https://github.com), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **KSAE Conference (Spring)**, 2024 (Oral)
+- [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://github.com), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
+
+</div>
+</div>  
+
+2024
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Driver Monitoring System (DMS) based FMCW Radar and Capacitive Steering Wheel]()
+<h2><a href="https://example.com">Driver Monitoring System (DMS) based FMCW Radar and Capacitive Steering Wheel</a></h2>
 
 For **The World Embedded Software Contest 2024**
 
-- 간단한 설명
+- Developed a driver fatigue detection system combining FMCW radar and capacitive sensors.
+- Integrated machine/deep learning for FMCW radar signal analysis; deployed GUI-based fatigue alerts.
+
 </div>
 </div>
 
-- [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://github.com), Daewon Kim, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024
+- [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://github.com), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024 ([Poster]())
+- [Presentation](https://github.com), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-patching: Life-log Classification]()
+<h2><a href="https://example.com">Multi-patching: Life-log Classification</a></h2>
 
 For **Human Understanding AI Paper Challenge 2024**
 
-- 간단한 설명
+- Proposed a multi-patching framework for life-log classification using reconstructed multivariate time series data.
+- Improved temporal representation by learning local patterns through patch-wise attention and reconstruction.
+
 </div>
 </div>
 
-- [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://github.com), Jaehyeon Lee, Sunwoo Yu, Daewon Kim, Kiwon Choi, **ICTC**, 2024
+- [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://github.com), Jaehyeon Lee, Sunwoo Yu, **Daewon Kim**, Kiwon Choi, **ICTC**, 2024 ([Poster]())
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Four Wheel Steering (4WS) Autonomous Vehicle based Reinforcement Learning]()
+<h2><a href="https://example.com">Four Wheel Steering (4WS) Autonomous Vehicle based Reinforcement Learning</a></h2>
 
 In **Engineering Design** class
 
 - Designed and implemented a 4-wheel independent steering vehicle; applied reinforcement learning for navigation.
+- Managed end-to-end development: 3D CAD, computer vision, control systems (PID), and embedded software.
+- Solely responsible for the design of a complex system requiring numerous components, efficiently arranging them through optimized 3D design to ensure unobstructed workflow.
 </div>
 </div>
 
-- [Presentation](https://github.com), Daewon Kim, Sunwoo Yu, Jaehyeon Lee, 2024
+- [Presentation](https://github.com), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,10 +119,11 @@ In **Engineering Design** class
 In **Mechatronics** class
 
 - Created a robotic gripper-based assistive device for individuals with reduced hand strength, also designed to function like a humanoid robot gripper.
+- Led mechanical design, servo control algorithm development, and ergonomic optimization; demonstrated at a university showcase.
 </div>
 </div>
 
-- [Presentation](https://github.com), [Report](), [Poster](), Daewon Kim, Soowan Yang, 2024
+- [Presentation](https://github.com), [Report](), [Poster](), **Daewon Kim**, Soowan Yang, 2024
 
 
 # 🎖 Honors and Awards
@@ -114,7 +136,7 @@ In **Mechatronics** class
 
 
 # 📖 Educations
-- *2020.03 – present* 🎓 DGIST, Major in Mechanical Engineering
+- *2020.03 – present* 🎓 Undergraduate Student, DGIST, Major in Mechanical Engineering
   - Completed 7 semesters (Expected Graduation: Feb 2026)
   - Total GPA: 4.02/4.3, Major GPA: 4.15/4.3
   - Military Service: 2021.06 – 2022.12
