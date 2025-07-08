@@ -38,7 +38,7 @@ My research interests include:
 2025
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024-2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024-2025</div><img src='images/HOD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2><a href="https://example.com">Hands-Off Detection (HOD)</a></h2>
@@ -58,7 +58,7 @@ In **DIA LAB**
 2024
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/DMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2><a href="https://example.com">Driver Monitoring System (DMS) based FMCW Radar and Capacitive Steering Wheel</a></h2>
@@ -75,7 +75,7 @@ For **The World Embedded Software Contest 2024**
 - [Presentation](https://1drv.ms/p/c/388bc343d36efd6b/EW48QmsEGuhBvrtMBuSLJ1ABPxScXzdX5oHsCVnQ5jtK3w?e=DezmEL), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/ICTC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2><a href="https://example.com">Multi-patching: Life-log Classification</a></h2>
@@ -91,7 +91,7 @@ For **Human Understanding AI Paper Challenge 2024**
 - [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://1drv.ms/b/c/388bc343d36efd6b/IQSC_Z1W9fEtTK2yhvh8duUSAYRPzsm0uwZvu82rJEoqZZg), Jaehyeon Lee, Sunwoo Yu, **Daewon Kim**, Kiwon Choi, **ICTC**, 2024 ([Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQSe7emQkDokSKhSkMSE2gXSAXL0VHkF5Q41r_jmlrM3DDU))
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/4ws.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2><a href="https://example.com">Four Wheel Steering (4WS) Autonomous Vehicle based Reinforcement Learning</a></h2>
@@ -106,7 +106,7 @@ In **Engineering Design** class
 
 - [Presentation](https://1drv.ms/p/c/388bc343d36efd6b/Ecfdgl3fx5hJlEXf1w1UeaoBvcUXeiX4OX5DbLgXSgUn1w?e=IftYn5), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/chop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2><a href="https://example.com">CHOPCHOP: Chopstick Assistance Device</a></h2>
