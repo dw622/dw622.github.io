@@ -35,7 +35,9 @@ My research interests include:
 
 # 🚀 Projects and Publications
 <div>
-2025
+
+## 2025
+
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024-2025</div><img src='images/HOD.png' alt="sym" width="100%"></div></div>
@@ -55,7 +57,9 @@ In **DIA LAB**
 - [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://1drv.ms/b/c/388bc343d36efd6b/IQS0b0iIYEhkRKbe8K2HRNeXASe6uZ7hdJLGFwTPtXnYD4Y), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
 
 <div>
-2024
+
+## 2024
+
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/DMS.png' alt="sym" width="100%"></div></div>
