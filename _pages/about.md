@@ -79,7 +79,7 @@ In **Engineering Design** class
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CHOPCHOP: Chopstick Assistance Device]()
+<h3><a href="https://example.com">CHOPCHOP: Chopstick Assistance Device</a></h3>
 
 In **Mechatronics** class
 
@@ -87,7 +87,7 @@ In **Mechatronics** class
 </div>
 </div>
 
-- [Presentation](https://github.com), [Report](), [poster](), Daewon Kim, Soowan Yang, 2024
+- [Presentation](https://github.com), [Report](), [Poster](), Daewon Kim, Soowan Yang, 2024
 
 
 # 🎖 Honors and Awards
