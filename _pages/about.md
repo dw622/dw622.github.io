@@ -72,7 +72,7 @@ For **The World Embedded Software Contest 2024**
 </div>
 
 - [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://1drv.ms/b/c/388bc343d36efd6b/IQTHSHnm9jOkTroZGwZAsiPCAVu5O9HngIYMe-1liPv9axg), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024 ([Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQQOexn8KPW9Sao_qzMnWWNpAfBkBAodDPbHXSXKI0IqCV4))
-- [Presentation](https://github.com), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
+- [Presentation](https://1drv.ms/p/c/388bc343d36efd6b/EW48QmsEGuhBvrtMBuSLJ1ABPxScXzdX5oHsCVnQ5jtK3w?e=DezmEL), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -104,7 +104,7 @@ In **Engineering Design** class
 </div>
 </div>
 
-- [Presentation](https://github.com), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
+- [Presentation](https://1drv.ms/p/c/388bc343d36efd6b/Ecfdgl3fx5hJlEXf1w1UeaoBvcUXeiX4OX5DbLgXSgUn1w?e=IftYn5), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -118,7 +118,7 @@ In **Mechatronics** class
 </div>
 </div>
 
-- [Presentation](https://github.com), [Report](https://1drv.ms/b/c/388bc343d36efd6b/IQQIQNK8znFQR4mreSdent4ZATCYLB7RonE8ct65vjrKfQw), [Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQRAzjTHgfPZQ7MVwr6UO4khAUlKklnNrW6taDGs1Egcas8), **Daewon Kim**, Soowan Yang, 2024
+- [Presentation](https://1drv.ms/p/c/388bc343d36efd6b/EZJTC6RstuVAtg2osDIDR1wBch1q3perOjBzZOl_6X5l_w?e=dPk6nl), [Report](https://1drv.ms/b/c/388bc343d36efd6b/IQQIQNK8znFQR4mreSdent4ZATCYLB7RonE8ct65vjrKfQw), [Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQRAzjTHgfPZQ7MVwr6UO4khAUlKklnNrW6taDGs1Egcas8), **Daewon Kim**, Soowan Yang, 2024
 
 
 # 🎖 Honors and Awards
