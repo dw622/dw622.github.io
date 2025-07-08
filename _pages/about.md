@@ -65,11 +65,12 @@ My research interests include:
   - Military Service: Mar 2021 – Dec 2022
 - *2023.06 - 2023.08* 🌐 University of California, Berkeley – Visiting Student (Summer Sessions)
 
-# 💬 Invited Talks
+# 🚀 Projects
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🏢 Internships
+- *2025.06 - present*  🏢[Kaist CMSS LAB](http://cmss.kaist.ac.kr/), Daejeon, Korea
+- *2023.12 - 2025.06*  🏢[DGIST DIA LAB](https://embedded.dgist.ac.kr/), Daegu, Korea
 
-# more
+Updated: 2025.07
