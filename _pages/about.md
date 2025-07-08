@@ -52,6 +52,20 @@ In **DIA LAB**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Driver Monitoring System (DMS) based FMCW Radar and Capacitive Steering Wheel]()
+
+For **The World Embedded Software Contest 2024**
+
+- 간단한 설명
+</div>
+</div>
+
+- [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://github.com), Daewon Kim, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Multi-patching: Life-log Classification]()
 
 For **Human Understanding AI Paper Challenge 2024**
@@ -79,7 +93,7 @@ In **Engineering Design** class
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<h3><a href="https://example.com">CHOPCHOP: Chopstick Assistance Device</a></h3>
+<h2><a href="https://example.com">CHOPCHOP: Chopstick Assistance Device</a></h2>
 
 In **Mechatronics** class
 
