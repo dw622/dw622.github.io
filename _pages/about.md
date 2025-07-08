@@ -34,9 +34,8 @@ My research interests include:
 - *2024.05* 🎉 Oral Presentation at the ISET 2024
 
 # 🚀 Projects and Publications
+<div>
 2025
-
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024-2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -53,14 +52,10 @@ In **DIA LAB**
 
 - [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://github.com), **Daewon Kim**, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024 ([Poster]())
 - [Analysis of Capacitive Touch Sensors in Automotive Steering Wheel](https://github.com), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **KSAE Conference (Spring)**, 2024 (Oral)
-- [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://github.com/dw622/dw622.github.io/tree/main/pdf), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
+- [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://raw.githubusercontent.com/dw622/dw622.github.io/tree/main/pdf), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
 
-</div>
-</div>  
-
+<div>
 2024
-
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
