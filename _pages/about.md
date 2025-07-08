@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About Me
-I am an undergraduate student in Mechanical Engineering at DGIST, with a strong interest in system-level verification and computational mechanics. I have conducted research on capacitive sensing-based driver monitoring systems and reinforcement learning-based autonomous platforms, focusing on the integration of hardware and software for robust real-world performance. I am particularly interested in combining simulation-driven analysis with physical experimentation to ensure the reliability of intelligent mechanical systems.
+I am an undergraduate student in Mechanical Engineering at [DGIST](https://www.dgist.ac.kr/), with a strong interest in system-level verification and computational mechanics. I have conducted research on capacitive sensing-based driver monitoring systems and reinforcement learning-based autonomous platforms, focusing on the integration of hardware and software for robust real-world performance. I am particularly interested in combining simulation-driven analysis with physical experimentation to ensure the reliability of intelligent mechanical systems.
 
 My research interests include:
 - System Verification
@@ -26,42 +26,68 @@ My research interests include:
 - Intelligent Control Systems
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉 Poster presentation at the PRESM 2025
-- *2024.11*: &nbsp;🎉 Poster presentation at the 2024 한국통신학회 추계종합학술대회
-- *2024.11*: &nbsp;🎉 Poster presentation at the IeMeK 2024
-- *2024.10*: &nbsp;🎉 Poster presentation at the ICTC 2024
-- *2024.06*: &nbsp;🎉 Oral Presentation at the KSAE 2024 Spiring
-- *2024.05*: &nbsp;🎉 Oral Presentation at the ISET 2024
+- *2025.07* 🎉 Poster presentation at the PRESM 2025
+- *2024.11* 🎉 Poster presentation at the 2024 한국통신학회 추계종합학술대회
+- *2024.11* 🎉 Poster presentation at the IeMeK 2024
+- *2024.10* 🎉 Poster presentation at the ICTC 2024
+- *2024.06* 🎉 Oral Presentation at the KSAE 2024 Spiring
+- *2024.05* 🎉 Oral Presentation at the ISET 2024
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 🚀 Projects and Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024-2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Hands-Off Detection (HOD)]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+In **DIA LAB**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 간단한 설명
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://github.com), Daewon Kim, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024
+- [Analysis of Capacitive Touch Sensors in Automotive Steering Wheel](https://github.com), Daewon Kim, Jaseong Lee, Tasang Park, Seonhun Lee*, **KSAE Conference (Spring)**, 2024
+- [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://github.com), Daewon Kim, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Multi-patching: Life-log Classification]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+For **Human Understanding AI Paper Challenge 2024**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 간단한 설명
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://github.com), Jaehyeon Lee, Sunwoo Yu, Daewon Kim, Kiwon Choi, **ICTC**, 2024
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Four Wheel Steering (4WS) Autonomous Vehicle based Reinforcement Learning]()
+
+In **Engineering Design** class
+
+- Designed and implemented a 4-wheel independent steering vehicle; applied reinforcement learning for navigation.
+</div>
+</div>
+
+- [Presentation](https://github.com), Daewon Kim, Sunwoo Yu, Jaehyeon Lee, 2024
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CHOPCHOP: Chopstick Assistance Device]()
+
+In **Mechatronics** class
+
+- Created a robotic gripper-based assistive device for individuals with reduced hand strength, also designed to function like a humanoid robot gripper.
+</div>
+</div>
+
+- [Presentation](https://github.com), [Report](), [poster](), Daewon Kim, Soowan Yang, 2024
 
 
 # 🎖 Honors and Awards
@@ -77,12 +103,8 @@ My research interests include:
 - *2020.03 – present* 🎓 DGIST, Major in Mechanical Engineering
   - Completed 7 semesters (Expected Graduation: Feb 2026)
   - Total GPA: 4.02/4.3, Major GPA: 4.15/4.3
-  - Military Service: Mar 2021 – Dec 2022
+  - Military Service: 2021.06 – 2022.12
 - *2023.06 - 2023.08* 🌐 University of California, Berkeley – Visiting Student (Summer Sessions)
-
-# 🚀 Projects
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 🏢 Internships
 - *2025.06 - present*  🏢[Kaist CMSS LAB](http://cmss.kaist.ac.kr/), Daejeon, Korea
