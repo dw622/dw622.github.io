@@ -142,7 +142,7 @@ In **Mechatronics** class
 - *2023.06 - 2023.08* 🌐 University of California, Berkeley – Visiting Student (Summer Sessions)
 
 # 🏢 Internships
-- *2025.06 - present*  🏢[Kaist CMSS LAB](http://cmss.kaist.ac.kr/), Daejeon, Korea
+- *2025.06 - present*  🏢[KAIST CMSS LAB](http://cmss.kaist.ac.kr/), Daejeon, Korea
 - *2023.12 - 2025.06*  🏢[DGIST DIA LAB](https://embedded.dgist.ac.kr/), Daegu, Korea
 
 Updated: 2025.07
