@@ -50,7 +50,7 @@ In **DIA LAB**
 </div>
 </div>
 
-- [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://1drv.ms/b/c/388bc343d36efd6b/IQR7gr3C0hKJT6H9HKIS5ZANAT9sxiWV3N8R3lTZ8p-XcV0), **Daewon Kim**, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024 ([Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQRI0uS7e3D5R7ViFE4bT7E1AUBfNbHYZ6FeyLOKlXXsoRc))
+- [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://view.officeapps.live.com/op/embed.aspx?src=https://1drv.ms/b/c/388bc343d36efd6b/IQR7gr3C0hKJT6H9HKIS5ZANAT9sxiWV3N8R3lTZ8p-XcV0), **Daewon Kim**, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024 ([Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQRI0uS7e3D5R7ViFE4bT7E1AUBfNbHYZ6FeyLOKlXXsoRc))
 - [Analysis of Capacitive Touch Sensors in Automotive Steering Wheel](https://1drv.ms/b/c/388bc343d36efd6b/IQS7UGYxSiL4Q4M36Sdj-KlGAdt5gnhYxIxLKFDJX_IxMLs), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **KSAE Conference (Spring)**, 2024 (Oral)
 - [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://1drv.ms/b/c/388bc343d36efd6b/IQS0b0iIYEhkRKbe8K2HRNeXASe6uZ7hdJLGFwTPtXnYD4Y), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
 
