@@ -25,8 +25,7 @@ author:
   avatar           : "images/pic.jpg"
   bio              : "Undergraduate student at DGIST in Mechanical Engineering"
   location         : "Dague, Korea"
-  blog             : 
-  blog         : "https://daewonsblog.tistory.com/"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=38Aeqr0AAAAJ&hl=ko"
   email            : "daewon3839@dgist.ac.kr"
@@ -47,7 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
+  pinterest        : "https://daewonsblog.tistory.com/"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
