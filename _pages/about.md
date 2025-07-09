@@ -36,7 +36,7 @@ My research interests include:
 # 🚀 Projects and Publications
 <div>
 
-2025
+<h2>2025</h2>
 
 </div>
 
@@ -52,13 +52,13 @@ In **DIA LAB**
 </div>
 </div>
 
-- [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://1drv.ms/b/c/388bc343d36efd6b/IQR7gr3C0hKJT6H9HKIS5ZANAT9sxiWV3N8R3lTZ8p-XcV0), **Daewon Kim**, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024 ([Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQRI0uS7e3D5R7ViFE4bT7E1AUBfNbHYZ6FeyLOKlXXsoRc))
+- [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://drive.google.com/file/d/1Ca000U3Lc-NH2RB_lF8fW8fV-kCw8Ws1/view?usp=sharing), **Daewon Kim**, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024 ([Poster](https://drive.google.com/file/d/14JRhBu7a4mIAqM5t7cyoTkm-21fYmfSZ/view?usp=sharing))
 - [Analysis of Capacitive Touch Sensors in Automotive Steering Wheel](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:u-x6o8ySG0sC), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **KSAE Conference (Spring)**, 2024 (Oral) ([Scholar]())
-- [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://1drv.ms/b/c/388bc343d36efd6b/IQS0b0iIYEhkRKbe8K2HRNeXASe6uZ7hdJLGFwTPtXnYD4Y), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
+- [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://drive.google.com/file/d/1QxWS3CX77hKegvVGoxAkIwTRabemYate/view?usp=sharing), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
 
 <div>
 
-2024
+<h2>2024</h2>
 
 </div>
 
@@ -75,8 +75,8 @@ For **The World Embedded Software Contest 2024**
 </div>
 </div>
 
-- [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:u5HHmVD_uO8C), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024 ([Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQQOexn8KPW9Sao_qzMnWWNpAfBkBAodDPbHXSXKI0IqCV4))
-- [Presentation](https://1drv.ms/p/c/388bc343d36efd6b/EW48QmsEGuhBvrtMBuSLJ1ABPxScXzdX5oHsCVnQ5jtK3w?e=DezmEL), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
+- [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:u5HHmVD_uO8C), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024 ([Poster](https://drive.google.com/file/d/1WyJCPynDxvU_9nsgjePFSsMrPmhHbRnf/view?usp=sharing))
+- [Presentation](https://docs.google.com/presentation/d/17Jkt9cCcQugEKe1hptPNsFgQcNRmIlZm/edit?usp=drive_link&ouid=110971104830914313588&rtpof=true&sd=true), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/ICTC.png' alt="sym" width="100%"></div></div>
@@ -92,7 +92,7 @@ For **Human Understanding AI Paper Challenge 2024**
 </div>
 </div>
 
-- [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:d1gkVwhDpl0C), Jaehyeon Lee, Sunwoo Yu, **Daewon Kim**, Kiwon Choi, **ICTC**, 2024 ([Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQSe7emQkDokSKhSkMSE2gXSAXL0VHkF5Q41r_jmlrM3DDU))
+- [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:d1gkVwhDpl0C), Jaehyeon Lee, Sunwoo Yu, **Daewon Kim**, Kiwon Choi, **ICTC**, 2024 ([Poster](https://drive.google.com/file/d/1gTdXsjaEtcNgCucHlnjAL-s_-5exlPa1/view?usp=sharing))
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/4ws.png' alt="sym" width="100%"></div></div>
@@ -108,7 +108,7 @@ In **Engineering Design** class
 </div>
 </div>
 
-- [Presentation](https://1drv.ms/p/c/388bc343d36efd6b/Ecfdgl3fx5hJlEXf1w1UeaoBvcUXeiX4OX5DbLgXSgUn1w?e=IftYn5), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
+- [Presentation](https://docs.google.com/presentation/d/1IZuZWaOFrU4nQwjTFVb_rNyon2KB5oex/edit?usp=sharing&ouid=110971104830914313588&rtpof=true&sd=true), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/chop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,7 +122,7 @@ In **Mechatronics** class
 </div>
 </div>
 
-- [Presentation](https://1drv.ms/p/c/388bc343d36efd6b/EZJTC6RstuVAtg2osDIDR1wBch1q3perOjBzZOl_6X5l_w?e=dPk6nl), [Report](https://1drv.ms/b/c/388bc343d36efd6b/IQQIQNK8znFQR4mreSdent4ZATCYLB7RonE8ct65vjrKfQw), [Poster](https://1drv.ms/b/c/388bc343d36efd6b/IQRAzjTHgfPZQ7MVwr6UO4khAUlKklnNrW6taDGs1Egcas8), **Daewon Kim**, Soowan Yang, 2024
+- [Presentation](https://docs.google.com/presentation/d/1F7Hu_QiumBhLb8KRVXkvbCpcrmk88jyl/edit?usp=sharing&ouid=110971104830914313588&rtpof=true&sd=true), [Report](https://drive.google.com/file/d/1UUuUKQ9C_zsJOTvJuy4X3a9Epjy31Y8l/view?usp=sharing), [Poster](https://drive.google.com/file/d/1Pn64CuHetcZa8blVRuhpADdl9Tnow8fM/view?usp=sharing), **Daewon Kim**, Soowan Yang, 2024
 
 
 # 🎖 Honors and Awards
