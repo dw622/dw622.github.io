@@ -36,7 +36,7 @@ My research interests include:
 # 🚀 Projects and Publications
 <div>
 
-## 2025
+2025
 
 </div>
 
@@ -58,7 +58,7 @@ In **DIA LAB**
 
 <div>
 
-## 2024
+2024
 
 </div>
 
