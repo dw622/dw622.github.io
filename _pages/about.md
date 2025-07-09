@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😃 About Me ([cv](https://drive.google.com/file/d/1WBOSW30rQM9s8w4sAxZI7KtQfzed39h_/view?usp=drive_link)) ([blog]("https://daewonsblog.tistory.com/"))
+# 😃 About Me ([cv](https://drive.google.com/file/d/1WBOSW30rQM9s8w4sAxZI7KtQfzed39h_/view?usp=drive_link)) ([blog](https://daewonsblog.tistory.com/))
 I am an undergraduate student in Mechanical Engineering at [DGIST](https://www.dgist.ac.kr/), with a strong interest in system-level verification and computational mechanics. I have conducted research on capacitive sensing-based driver monitoring systems and reinforcement learning-based autonomous platforms, focusing on the integration of hardware and software for robust real-world performance. I am particularly interested in combining simulation-driven analysis with physical experimentation to ensure the reliability of intelligent mechanical systems.
 
 My research interests include:
