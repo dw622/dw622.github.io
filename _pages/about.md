@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😃 About Me [cv](https://drive.google.com/file/d/1WBOSW30rQM9s8w4sAxZI7KtQfzed39h_/view?usp=drive_link)
+# 😃 About Me [CV](https://drive.google.com/file/d/1WBOSW30rQM9s8w4sAxZI7KtQfzed39h_/view?usp=drive_link)
 I am an undergraduate student in Mechanical Engineering at [DGIST](https://www.dgist.ac.kr/), with a strong interest in system-level verification and computational mechanics. I have conducted research on capacitive sensing-based driver monitoring systems and reinforcement learning-based autonomous platforms, focusing on the integration of hardware and software for robust real-world performance. I am particularly interested in combining simulation-driven analysis with physical experimentation to ensure the reliability of intelligent mechanical systems.
 
 My research interests include:
@@ -53,7 +53,7 @@ In **DIA LAB**
 </div>
 
 - [Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors](https://drive.google.com/file/d/1Ca000U3Lc-NH2RB_lF8fW8fV-kCw8Ws1/view?usp=sharing), **Daewon Kim**, Jaeseong Lee, Taesang Park, Choongpyo Jeong, Seonghun Lee*, **IeMeK Conference (Fall)**, 2024 ([Poster](https://drive.google.com/file/d/14JRhBu7a4mIAqM5t7cyoTkm-21fYmfSZ/view?usp=sharing))
-- [Analysis of Capacitive Touch Sensors in Automotive Steering Wheel](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:u-x6o8ySG0sC), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **KSAE Conference (Spring)**, 2024 (Oral) ([pdf](https://drive.google.com/file/d/1SBrSPrA5KjB_pWaCseIzgJ-jAGrrnjVZ/view?usp=sharing))
+- [Analysis of Capacitive Touch Sensors in Automotive Steering Wheel](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:u-x6o8ySG0sC), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **KSAE Conference (Spring)**, 2024 (Oral) ([PDF](https://drive.google.com/file/d/1SBrSPrA5KjB_pWaCseIzgJ-jAGrrnjVZ/view?usp=sharing))
 - [Principle and Characteristics of Touch Sensor Utilizing Conductive Fabric](https://drive.google.com/file/d/1QxWS3CX77hKegvVGoxAkIwTRabemYate/view?usp=sharing), **Daewon Kim**, Jaseong Lee, Tasang Park, Seonhun Lee*, **ISET**, 2024 (Oral)
 
 <div>
@@ -75,7 +75,7 @@ For **The World Embedded Software Contest 2024**
 </div>
 </div>
 
-- [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:u5HHmVD_uO8C), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024 ([pdf](https://drive.google.com/file/d/1VHH2Zi2W_e9gutIAm82HA9Ga21IsoK4m/view?usp=drive_link),[Poster](https://drive.google.com/file/d/1WyJCPynDxvU_9nsgjePFSsMrPmhHbRnf/view?usp=sharing))
+- [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:u5HHmVD_uO8C), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024 ([PDF](https://drive.google.com/file/d/1VHH2Zi2W_e9gutIAm82HA9Ga21IsoK4m/view?usp=drive_link),[Poster](https://drive.google.com/file/d/1WyJCPynDxvU_9nsgjePFSsMrPmhHbRnf/view?usp=sharing))
 - [Presentation](https://docs.google.com/presentation/d/17Jkt9cCcQugEKe1hptPNsFgQcNRmIlZm/edit?usp=drive_link&ouid=110971104830914313588&rtpof=true&sd=true), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
 
@@ -92,7 +92,7 @@ For **Human Understanding AI Paper Challenge 2024**
 </div>
 </div>
 
-- [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:d1gkVwhDpl0C), Jaehyeon Lee, Sunwoo Yu, **Daewon Kim**, Kiwon Choi, **ICTC**, 2024 ([pdf](https://drive.google.com/file/d/132SlIIARE9YauuvVbattcGkEstIeOeSS/view?usp=sharing),[Poster](https://drive.google.com/file/d/1gTdXsjaEtcNgCucHlnjAL-s_-5exlPa1/view?usp=sharing))
+- [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:d1gkVwhDpl0C), Jaehyeon Lee, Sunwoo Yu, **Daewon Kim**, Kiwon Choi, **ICTC**, 2024 ([PDF](https://drive.google.com/file/d/132SlIIARE9YauuvVbattcGkEstIeOeSS/view?usp=sharing),[Poster](https://drive.google.com/file/d/1gTdXsjaEtcNgCucHlnjAL-s_-5exlPa1/view?usp=sharing))
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/4ws.png' alt="sym" width="100%"></div></div>
