@@ -75,7 +75,7 @@ For **The World Embedded Software Contest 2024**
 </div>
 </div>
 
-- [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:u5HHmVD_uO8C), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024 ([PDF](https://drive.google.com/file/d/1VHH2Zi2W_e9gutIAm82HA9Ga21IsoK4m/view?usp=drive_link), [Poster](https://drive.google.com/file/d/1WyJCPynDxvU_9nsgjePFSsMrPmhHbRnf/view?usp=sharing))
+- [Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:u5HHmVD_uO8C), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, Seonghun Lee*, **KICS Conference (Fall)**, 2024 ([PDF](https://drive.google.com/file/d/1VHH2Zi2W_e9gutIAm82HA9Ga21IsoK4m/view?usp=drive_link), [Poster](https://drive.google.com/file/d/1WyJCPynDxvU_9nsgjePFSsMrPmhHbRnf/view?usp=sharing), [Github](https://github.com/dw622/2024ESWContest_free_1063))
 - [Presentation](https://docs.google.com/presentation/d/17Jkt9cCcQugEKe1hptPNsFgQcNRmIlZm/edit?usp=drive_link&ouid=110971104830914313588&rtpof=true&sd=true), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
 
 
@@ -92,7 +92,7 @@ For **Human Understanding AI Paper Challenge 2024**
 </div>
 </div>
 
-- [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:d1gkVwhDpl0C), Jaehyeon Lee, Sunwoo Yu, **Daewon Kim**, Kiwon Choi, **ICTC**, 2024 ([PDF](https://drive.google.com/file/d/132SlIIARE9YauuvVbattcGkEstIeOeSS/view?usp=sharing), [Poster](https://drive.google.com/file/d/1gTdXsjaEtcNgCucHlnjAL-s_-5exlPa1/view?usp=sharing))
+- [Multi-patching: Life-log Classification with the Reconstructed Representation of Multivariate Time Series](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=38Aeqr0AAAAJ&citation_for_view=38Aeqr0AAAAJ:d1gkVwhDpl0C), Jaehyeon Lee, Sunwoo Yu, **Daewon Kim**, Kiwon Choi, **ICTC**, 2024 ([PDF](https://drive.google.com/file/d/132SlIIARE9YauuvVbattcGkEstIeOeSS/view?usp=sharing), [Poster](https://drive.google.com/file/d/1gTdXsjaEtcNgCucHlnjAL-s_-5exlPa1/view?usp=sharing), [Github](https://github.com/dw622/Multi-Patching))
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/4ws.png' alt="sym" width="100%"></div></div>
@@ -108,7 +108,7 @@ In **Engineering Design** class
 </div>
 </div>
 
-- [Presentation](https://docs.google.com/presentation/d/1IZuZWaOFrU4nQwjTFVb_rNyon2KB5oex/edit?usp=sharing&ouid=110971104830914313588&rtpof=true&sd=true), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024
+- [Presentation](https://docs.google.com/presentation/d/1IZuZWaOFrU4nQwjTFVb_rNyon2KB5oex/edit?usp=sharing&ouid=110971104830914313588&rtpof=true&sd=true), **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee, 2024 ([Github](https://github.com/dw622/4WS_RLCar))
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/chop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
