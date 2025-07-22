@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Daewon Kim"
-  avatar           : "images/pic.jpg"
+  avatar           : "images/me.jpg"
   bio              : "Undergraduate student at DGIST in Mechanical Engineering"
   location         : "Dague, Korea"
   employer         : 
