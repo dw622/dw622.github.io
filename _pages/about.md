@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😃 About Me ([cv](https://drive.google.com/file/d/1WBOSW30rQM9s8w4sAxZI7KtQfzed39h_/view?usp=drive_link)) ([blog](https://daewonsblog.tistory.com/))
-I am an undergraduate student in Mechanical Engineering at [DGIST](https://www.dgist.ac.kr/), with a strong interest in system-level verification and computational mechanics. I have conducted research on capacitive sensing-based driver monitoring systems and reinforcement learning-based autonomous platforms, focusing on the integration of hardware and software for robust real-world performance. I am particularly interested in combining simulation-driven analysis with physical experimentation to ensure the reliability of intelligent mechanical systems.
+# 😃 About Me ([cv](https://drive.google.com/file/d/1JxUF0p3NiPXkeoEP1f-vfVvZBXP3WYO9/view?usp=drive_link)) ([blog](https://daewonsblog.tistory.com/))
+I received my B.S. in Mechanical Engineering from [DGIST](https://www.dgist.ac.kr/) and am currently pursuing an M.S. in Mechanical Engineering at [KAIST](https://www.kaist.ac.kr/kr/) as a member of the Computational Mechanics & Structural Systems ([CMSS](http://cmss.kaist.ac.kr/)) Laboratory, advised by Professor Pilseung Lee. My research interests include system-level verification and computational mechanics, with a focus on integrating simulation-based analysis and physical experimentation to ensure the reliability of intelligent mechanical systems.
 
 My research interests include:
 - System Verification
@@ -26,12 +26,9 @@ My research interests include:
 - Intelligent Control Systems
 
 # 🔥 News
+- *2026.03* 🎉 Joined the M.S. program in Mechanical Engineering at KAIST (CMSS Lab).
 - *2025.07* 🎉 Poster presentation at the PRESM 2025
 - *2024.11* 🎉 Poster presentation at the 2024 한국통신학회 추계종합학술대회
-- *2024.11* 🎉 Poster presentation at the IeMeK 2024
-- *2024.10* 🎉 Poster presentation at the ICTC 2024
-- *2024.06* 🎉 Oral Presentation at the KSAE 2024 Spiring
-- *2024.05* 🎉 Oral Presentation at the ISET 2024
 
 # 🚀 Projects and Publications
 <div>
@@ -126,23 +123,24 @@ In **Mechatronics** class
 
 
 # 🎖 Honors and Awards
-- *2024.11* 🏆 Encouragement Prize, The World Embedded Software Contest 2024, KESSIA
-- *2024.10* 🏆 Encouragement Prize, Human Understanding AI Paper Challenge 2024, ETRI
-- *2024.03* 🎓 Dean’s List, College of Transdisciplinary Studies, DGIST (Spring 2024)
-- *2023.09* 🎓 Dean’s List, College of Transdisciplinary Studies, DGIST (Fall 2024)
-- *2023.03* 🎓 Dean’s List, College of Transdisciplinary Studies, DGIST (Spring 2023) 
-- *2020.03 – present* 💰 Full-Tuition Scholarship, DGIST Scholarship Student
-
+- Encouragement Prize, The World Embedded Software Contest 2024, KESSIA (2024)
+- Encouragement Prize, Human Understanding AI Paper Challenge 2024, ETRI (2024)
+-Dean’s List, College of Transdisciplinary Studies, DGIST (2023 Spring & Fall, 2024 Spring, 2025 Spring & Fall)
+- Excellence Award (FameLab), College of Transdisciplinary Studies Student Symposium, DGIST (2020)
+- MIREBrain Scholarship, DGIST (2020)
+- Full-Tuition, Scholarship Student, DGIST (2020 – 2026)
 
 # 📖 Educations
-- *2020.03 – present* 🎓 Undergraduate Student, DGIST, Major in Mechanical Engineering
-  - Completed 7 semesters (Expected Graduation: Feb 2026)
-  - Total GPA: 4.02/4.3, Major GPA: 4.15/4.3
+- *2026.03 - present* 🎓 MS, KAIST, Major in Mechanical Engineering
+  - Computational Mechanics & Structural Systems Laboratory / Advisor: Prof. Phill-Seung Lee
+- *2020.03 – 2026.02* 🎓 BS, DGIST, Major in Mechanical Engineering
+  - GPA: 4.04/4.30, Summa Cum Laude
   - Military Service: 2021.06 – 2022.12
 - *2023.06 - 2023.08* 🌐 University of California, Berkeley – Visiting Student (Summer Sessions)
 
 # 🏢 Internships
-- *2025.06 - present*  🏢[KAIST CMSS LAB](http://cmss.kaist.ac.kr/), Daejeon, Korea
+- *2025.08 - 2025.12*  🏢[DGIST DIA LAB](https://embedded.dgist.ac.kr/), Daegu, Korea
+- *2025.06 - 2025.08*  🏢[KAIST CMSS LAB](http://cmss.kaist.ac.kr/), Daejeon, Korea
 - *2023.12 - 2025.06*  🏢[DGIST DIA LAB](https://embedded.dgist.ac.kr/), Daegu, Korea
 
-Updated: 2025.07
+Updated: 2026.02
