@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😃 About Me ([cv](https://drive.google.com/file/d/1JxUF0p3NiPXkeoEP1f-vfVvZBXP3WYO9/view?usp=drive_link)) ([blog](https://daewonsblog.tistory.com/))
+# 😃 About Me ([CV](https://drive.google.com/file/d/1JxUF0p3NiPXkeoEP1f-vfVvZBXP3WYO9/view?usp=drive_link)) ([blog](https://daewonsblog.tistory.com/))
 I received my B.S. in Mechanical Engineering from [DGIST](https://www.dgist.ac.kr/) and am currently pursuing an M.S. in Mechanical Engineering at [KAIST](https://www.kaist.ac.kr/kr/) as a member of the Computational Mechanics & Structural Systems ([CMSS](http://cmss.kaist.ac.kr/)) Laboratory, advised by Professor Pilseung Lee. My research interests include system-level verification and computational mechanics, with a focus on integrating simulation-based analysis and physical experimentation to ensure the reliability of intelligent mechanical systems.
 
 My research interests include:
