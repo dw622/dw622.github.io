@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Daewon Kim"
-description              : "Interested in System Verification and Computational Mechanics"
+description              : 
 repository               : "dw622/dw622.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Daewon Kim"
   avatar           : "images/me.png"
-  bio              : "Master Student at KAIST in Mechanical Engineering"
+  bio              : "M.S. student at KAIST in Mechanical Engineering"
   location         : "Daejeon, Korea"
   employer         : 
   pubmed           : 
