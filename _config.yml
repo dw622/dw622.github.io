@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Daewon Kim"
   avatar           : "images/me.png"
-  bio              : "Undergraduate student at DGIST in Mechanical Engineering"
-  location         : "Dague, Korea"
+  bio              : "Master Student at DGIST in Mechanical Engineering"
+  location         : "Daejeon, Korea"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=38Aeqr0AAAAJ&hl=ko"
-  email            : "daewon3839@dgist.ac.kr"
+  email            : "daewonkim@kaist.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "daewon-kim-23b780350"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        : 
