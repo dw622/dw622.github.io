@@ -131,17 +131,20 @@ In **Mechatronics** class
 - **Full-Tuition**, Scholarship Student, DGIST (2020 – 2026)
 
 # 📖 Educations
-- *2026.03 - present* 🎓 MS, KAIST, Major in Mechanical Engineering
+- *2026.03 - present* MS, KAIST, Daejeon, Korea 
+  - MS in Mechanical Engineering
   - Computational Mechanics & Structural Systems Laboratory
   - Advisor: Prof. Phill-Seung Lee
-- *2020.03 – 2026.02* 🎓 BS, DGIST, Major in Mechanical Engineering
-  - GPA: 4.04/4.30, Summa Cum Laude
+- *2020.03 – 2026.02* BS, DGIST, Daegu, Korea 
+  - BS in Mechanical Engineering Track
+  - GPA: 4.04/4.30, **Summa Cum Laude**
   - Military Service: 2021.06 – 2022.12
-- *2023.06 - 2023.08* 🌐 University of California, Berkeley – Visiting Student (Summer Sessions)
+- *2023.06 - 2023.08* Visiting Student, University of California, Berkeley 
+  - Summer Sessions
 
 # 🏢 Internships
-- *2025.08 - 2025.12*  🏢[DGIST DIA LAB](https://embedded.dgist.ac.kr/), Daegu, Korea
-- *2025.06 - 2025.08*  🏢[KAIST CMSS LAB](http://cmss.kaist.ac.kr/), Daejeon, Korea
-- *2023.12 - 2025.06*  🏢[DGIST DIA LAB](https://embedded.dgist.ac.kr/), Daegu, Korea
+- *2025.08 - 2025.12*  [DGIST DIA LAB](https://embedded.dgist.ac.kr/), Daegu, Korea
+- *2025.06 - 2025.08*  [KAIST CMSS LAB](http://cmss.kaist.ac.kr/), Daejeon, Korea
+- *2023.12 - 2025.06*  [DGIST DIA LAB](https://embedded.dgist.ac.kr/), Daegu, Korea
 
 Updated: 2026.02
