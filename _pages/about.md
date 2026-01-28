@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About Me ([CV](https://drive.google.com/file/d/1JxUF0p3NiPXkeoEP1f-vfVvZBXP3WYO9/view?usp=drive_link)) ([blog](https://daewonsblog.tistory.com/))
-I received a B.S. in Mechanical Engineering from [DGIST](https://www.dgist.ac.kr/) and am currently a M.S. student in Mechanical Engineering at [KAIST](https://www.kaist.ac.kr/kr/), where I am a member of the Computational Mechanics & Structural Systems ([CMSS](http://cmss.kaist.ac.kr/)) Laboratory under the supervision of Prof. Phill-Seung Lee. My research interests include system-level verification and computational mechanics, with a focus on integrating simulation-based analysis and physical experimentation to ensure the reliability of intelligent mechanical systems.
+I received a **B.S.** in Mechanical Engineering from **[DGIST](https://www.dgist.ac.kr/)** and am currently a **M.S. student** in Mechanical Engineering at **[KAIST](https://www.kaist.ac.kr/kr/)**, where I am a member of the Computational Mechanics & Structural Systems ([CMSS](http://cmss.kaist.ac.kr/)) Laboratory under the supervision of **Prof. Phill-Seung Lee**. My research interests include **system verification** and **computational mechanics**, with a focus on integrating simulation-based analysis and physical experimentation to ensure the reliability of intelligent mechanical systems.
 
 My research interests include:
 - System Verification
@@ -123,12 +123,12 @@ In **Mechatronics** class
 
 
 # 🎖 Honors and Awards
-- Encouragement Prize, The World Embedded Software Contest 2024, KESSIA (2024)
-- Encouragement Prize, Human Understanding AI Paper Challenge 2024, ETRI (2024)
-- Dean’s List, College of Transdisciplinary Studies, DGIST (2023 Spring & Fall, 2024 Spring, 2025 Spring & Fall)
-- Excellence Award (FameLab), College of Transdisciplinary Studies Student Symposium, DGIST (2020)
-- MIREBrain Scholarship, DGIST (2020)
-- Full-Tuition, Scholarship Student, DGIST (2020 – 2026)
+- **Encouragement Prize**, The World Embedded Software Contest 2024, KESSIA (2024)
+- **Encouragement Prize**, Human Understanding AI Paper Challenge 2024, ETRI (2024)
+- **Dean’s List**, College of Transdisciplinary Studies, DGIST (2023 Spring & Fall, 2024 Spring, 2025 Spring & Fall)
+- **Excellence Award (FameLab)**, College of Transdisciplinary Studies Student Symposium, DGIST (2020)
+- **MIREBrain Scholarship**, DGIST (2020)
+- **Full-Tuition**, Scholarship Student, DGIST (2020 – 2026)
 
 # 📖 Educations
 - *2026.03 - present* 🎓 MS, KAIST, Major in Mechanical Engineering
